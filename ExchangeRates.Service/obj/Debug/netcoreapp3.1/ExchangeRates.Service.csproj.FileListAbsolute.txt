@@ -1,0 +1,12 @@
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.csprojAssemblyReference.cache
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.AssemblyInfoInputs.cache
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.AssemblyInfo.cs
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.csproj.CoreCompileInputs.cache
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netcoreapp3.1\ExchangeRates.Service.deps.json
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netcoreapp3.1\ExchangeRates.Service.dll
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netcoreapp3.1\ExchangeRates.Service.pdb
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netcoreapp3.1\ExchangeRates.Core.dll
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netcoreapp3.1\ExchangeRates.Core.pdb
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.csproj.CopyComplete
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.dll
+C:\Users\ilija\source\repos\projects\exchangerates-api\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netcoreapp3.1\ExchangeRates.Service.pdb
